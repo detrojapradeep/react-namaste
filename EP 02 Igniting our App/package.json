@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This is for the episode 02 of the namaste react course",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "Pradeep Kumar Detroja",
   "license": "ISC",
