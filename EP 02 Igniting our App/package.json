@@ -1,0 +1,14 @@
+{
+  "name": "igniting-our-app",
+  "version": "1.0.0",
+  "description": "This is for the episode 02 of the namaste react course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pradeep Kumar Detroja",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.0"
+  }
+}
