@@ -5,7 +5,7 @@
 // Package lock. json keeps track of the exact dependency installed with SHA Hash codes for validity
 
 import React from "react";
-import ReactDOM from "react-dom";
+import ReactDOM from "react-dom/client";
 
 const heading = React.createElement(
   "h1",
